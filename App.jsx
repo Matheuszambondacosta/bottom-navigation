@@ -13,7 +13,7 @@ export default function App() {
     <NavigationContainer>
       <Tab.Navigator>
         <Tab.Screen name="Home" component={Home} />
-        <Tab.Screen name="profile" component={Profile} />
+        <Tab.Screen name="Profile" component={Profile} />
         <Tab.Screen name="Contact" component={Contact} />
       </Tab.Navigator>
 
